@@ -2,9 +2,9 @@
 # Title: Game Market Analysis Portfolio
 ---
 
-# 🧙 Biography
+# Biography 🧙
 
-My name is Alec Bravo, and I’ve spent the last 6+ years bridging the gap between business and technology. I’ve designed scalable processes, integrated systems, and built data-driven solutions for global teams using **SQL, Python, ETL pipelines, Redshift, Salesforce, Power BI, and process mapping.**  
+Hello, my name is Alec Bravo and I’ve spent the last 6+ years bridging the gap between business and technology. I’ve designed scalable processes, integrated systems, and built data-driven solutions for global teams using **SQL, Python, ETL pipelines, Redshift, Salesforce, Power BI, and process mapping.**  
 
 From developing global dashboards tracking $5B+ in opportunities to launching automation tools that save thousands of manual hours annually, I have a proven track record of automating workflows, improving data quality, and delivering actionable insights.
 
