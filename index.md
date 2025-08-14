@@ -20,11 +20,11 @@ Beyond my career, my adventures include traveling with my girlfriend, spending t
 <p align="center">
   <figure style="display:inline-block; margin: 10px;">
     <img src="Bilbo Git.JPG" alt="Bilbo the Labrador" width="280" style="border-radius:15px;"/>
-    <figcaption><i>Bilbo — 10 Weeks Old</i></figcaption>
+    <figcaption><i>Bilbo ~ 10 Weeks Old</i></figcaption>
   </figure>
   <figure style="display:inline-block; margin: 10px;">
     <img src="fam git.JPG" alt="Alec and Girlfriend" width="280" style="border-radius:15px;"/>
-    <figcaption><i>Kyoto Japan</i></figcaption>
+    <figcaption><i>Kyoto, Japan</i></figcaption>
   </figure>
 </p>
 
@@ -66,32 +66,44 @@ Goal: Understand how Early Access compares to Full Releases in popularity and pr
 ### **1. Popularity & Performance Trends** — *Plot A: Median Rank by Year & Release Type (Last 5 Years)*  
 ![Plot A](Median Rank by Year & Release Type - Last 5 yrs.PNG)
 
+**Analysis Findings**
 - **Full Release (FR)** titles consistently maintain better median overall ranks (lower = more owners) across the 5-year window.  
 - **Early Access (EA)** often achieves higher relative performance within its own category and in certain release-year cohorts (notably in 2025).  
 - EA rankings fluctuate more year-to-year, indicating higher volatility; FR is steadier.  
-- *Takeaway:* EA can match or exceed FR when compared by similar release type/year, but struggles to surpass in absolute popularity.
+
+<span style="color:#00A86B; font-weight:bold;">
+Key Takeaway: EA can match or exceed FR when compared by similar release type/year, but struggles to surpass in absolute popularity.
+</span>
 
 ---
 
 ### **2. Pricing Distribution Over Time** — *Plot B: Price Range Mix (Last 10 Years)*  
 ![Plot B](price range mix EA vs Full Release over 10 yrs.PNG)
 
+**Analysis Findings**
 - **Free Games:** Long-term decline for both EA and FR; FR slightly ahead until recent years.  
 - **Below $5 & Below $10:** FR stable, EA shows slow growth.  
 - **Below $20 & Below $30:** EA holds a larger share under $20, showing a budget-focused entry strategy.  
 - **At $60 & Above:** Rare for EA; FR dominates premium pricing, especially at $60 (nearly half the market share in that bucket).  
-- *Takeaway:* EA leverages low prices to attract players, while FR focuses on premium positioning.
+
+<span style="color:#00A86B; font-weight:bold;">
+Key Takeaway: EA leverages low prices to attract players, while FR focuses on premium positioning.
+</span>
 
 ---
 
 ### **3. Developer & Market Flow** — *Plot C: Sankey (Top 10 Developers, Last 5 Years)*  
 ![Plot C](Sankey Top 10 Developers last 5 years.png)
 
+**Analysis Findings**
 - **78.88%** of all owners from the top 10 developers come from FR titles.  
 - FR from top devs is heavily weighted toward premium tiers ($60).  
 - EA titles cluster under $30, with some notable high-owner exceptions.  
 - AAA studios dominate FR high-price tiers, while smaller/niche studios often succeed in EA.  
-- *Takeaway:* Premium tiers remain the domain of established AAA studios, while EA enables growth for emerging developers.
+
+<span style="color:#00A86B; font-weight:bold;">
+Key Takeaway: Premium tiers remain the domain of established AAA studios, while EA enables growth for emerging developers.
+</span>
 
 ---
 
