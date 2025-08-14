@@ -4,6 +4,10 @@
 
 # Biography 🧙
 
+<p align="center">
+  <img src="me 2 git.jpg" alt="Alec Bravo" width="220" style="border-radius:50%;"/>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alecbravo/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](Alec%20Bravo%20Resume%20Business%20Systems%20Analyst.pdf)
 
@@ -16,11 +20,11 @@ Beyond my career, my adventures include traveling with my girlfriend, spending t
 <p align="center">
   <figure style="display:inline-block; margin: 10px;">
     <img src="Bilbo Git.JPG" alt="Bilbo the Labrador" width="280" style="border-radius:15px;"/>
-    <figcaption><i>Bilbo — 10-week-old Labrador</i></figcaption>
+    <figcaption><i>Bilbo — 10 Weeks Old</i></figcaption>
   </figure>
   <figure style="display:inline-block; margin: 10px;">
     <img src="fam git.JPG" alt="Alec and Girlfriend" width="280" style="border-radius:15px;"/>
-    <figcaption><i>Traveling with my girlfriend in Kyoto Japan</i></figcaption>
+    <figcaption><i>Kyoto Japan</i></figcaption>
   </figure>
 </p>
 
@@ -51,48 +55,62 @@ Beyond my career, my adventures include traveling with my girlfriend, spending t
 ![Process Map](game_data_process.drawio.png)
 
 ## Overview
+<span style="color:#00A86B; font-weight:bold;">
 Goal: Understand how Early Access compares to Full Releases in popularity and pricing trends, and which developers and price buckets drive owners.
+</span>
 
 ## **Key Findings**
 
-### **1. Popularity & Performance Trends**
-- **Full Releases** consistently dominate in **absolute popularity** (Overall Rank), with a large share of the top spots in the market.  
-- **Early Access (EA)**, while less dominant in absolute terms, **often achieves superior rankings within its own category** (Rank in Type) and in certain **release-year cohorts** (Rank in Release Year), suggesting strong appeal to targeted audiences.  
-- EA performance shows **higher year-to-year volatility**, while Full Release exhibits steadier but slower shifts in rank.
+---
 
-### **2. Pricing Strategies Over Time (Last 10 Years)**
-- **Free Titles**: Both EA and Full show a long-term decline in share, with Full Release maintaining slightly higher free-title proportions until recent years.  
-- **Below $5 and Below $10**: Full Release maintains steady market presence, while EA shows small but consistent growth in these ranges.  
-- **Below $20 and Below $30**: EA significantly outperforms Full Release in under-$20 share, pointing to **aggressive entry-level pricing** strategies. Full Release holds a more stable but smaller share in these ranges.  
-- **$60 and Above**: Very small shares for both, consistent with AAA titles rarely using EA. **Full Release** dominates premium pricing, especially at **exactly $60**, where it holds nearly half of the market in recent years.
+### **1. Popularity & Performance Trends** — *Plot A: Median Rank by Year & Release Type (Last 5 Years)*  
+![Plot A](Median Rank by Year & Release Type - Last 5 yrs.PNG)
 
-### **3. Developer & Market Concentration (Last 5 Years)**
-- **Top 10 developers** in the last 5 years overwhelmingly release in **Full Release format** (78.88% of owners from Full Release titles).  
-- Premium pricing at **$60** accounts for nearly **half of all Full Release owners** in this group.  
-- EA titles from top devs cluster in **sub-$30 price buckets**, with occasional standouts achieving large owner counts.  
-- Notable clustering of **AAA studios** in Full Release with high price points, contrasted by EA successes from **smaller or niche-focused developers**.
+- **Full Release (FR)** titles consistently maintain better median overall ranks (lower = more owners) across the 5-year window.  
+- **Early Access (EA)** often achieves higher relative performance within its own category and in certain release-year cohorts (notably in 2025).  
+- EA rankings fluctuate more year-to-year, indicating higher volatility; FR is steadier.  
+- *Takeaway:* EA can match or exceed FR when compared by similar release type/year, but struggles to surpass in absolute popularity.
 
-### **4. Strategic Implications**
-- EA is most competitive when **cohort comparisons** are applied—year-specific or release-type specific—rather than in absolute market terms.  
-- Pricing differentiation is a major driver of audience capture: **EA leans budget-friendly**, Full Release **retains premium positioning**.  
-- Market share in top developer ranks reinforces the **strength of established studios** in dominating high-price tiers, while EA offers **a viable growth path** for emerging developers through affordability and community engagement.
-> **Note on Data Scope:**  
-> The dataset reflects the status of games **at the time of data extraction** and may not account for titles that have since transitioned out of Early Access into Full Release. This means certain high-impact releases—such as *Baldur’s Gate 3* and similar success stories—may be underrepresented in the EA performance metrics. As a result, some trends may shift if post-release performance for these titles were incorporated.
+---
 
-## Charts
-- **Plot A — Median Rank bump charts (last 5 years):**  
-  ![Plot A](Median Rank by Year & Release Type - Last 5 years.png)
+### **2. Pricing Distribution Over Time** — *Plot B: Price Range Mix (Last 10 Years)*  
+![Plot B](price range mix EA vs Full Release over 10 yrs.PNG)
 
-- **Plot B — Price Range Mix (last 10 years):**  
-  ![Plot B](price range mix EA vs Full Release over 10 years.png)
+- **Free Games:** Long-term decline for both EA and FR; FR slightly ahead until recent years.  
+- **Below $5 & Below $10:** FR stable, EA shows slow growth.  
+- **Below $20 & Below $30:** EA holds a larger share under $20, showing a budget-focused entry strategy.  
+- **At $60 & Above:** Rare for EA; FR dominates premium pricing, especially at $60 (nearly half the market share in that bucket).  
+- *Takeaway:* EA leverages low prices to attract players, while FR focuses on premium positioning.
 
-- **Plot C — Sankey (Top Dev → Release Type → Price Range):**  
-  ![Plot C](Sankey Top 10 Developers last 5 years.png)
+---
+
+### **3. Developer & Market Flow** — *Plot C: Sankey (Top 10 Developers, Last 5 Years)*  
+![Plot C](Sankey Top 10 Developers last 5 years.png)
+
+- **78.88%** of all owners from the top 10 developers come from FR titles.  
+- FR from top devs is heavily weighted toward premium tiers ($60).  
+- EA titles cluster under $30, with some notable high-owner exceptions.  
+- AAA studios dominate FR high-price tiers, while smaller/niche studios often succeed in EA.  
+- *Takeaway:* Premium tiers remain the domain of established AAA studios, while EA enables growth for emerging developers.
+
+---
+
+### **4. Strategic Insights**
+- EA’s strongest results appear in relative comparisons (same year/type), while FR leads in absolute market terms.  
+- Pricing is a key differentiator: EA = affordability; FR = premium brand strength.  
+- Developer concentration reinforces market segmentation: AAA controls premium tiers; EA offers lower-barrier entry.
+
+> **Data Caveat:**  
+> This dataset reflects the market **at the time of extraction**. It does not account for successful titles that transitioned from EA to Full Release afterward, such as *Baldur’s Gate 3*. Inclusion of these could shift the metrics.
+
+---
 
 ## Methods & Code
 - **SQL:** price bucketing, EA join, rank windows (`ROW_NUMBER`), date parsing.
 - **Python:** DuckDB query → pandas shaping → robust plotting with Matplotlib/Plotly.
 - [SQL script](game_data_project_sqlcode.sql) • [Notebook/Script](analyze_game_view_data.py)
+
+---
 
 ## LinkedIn & Resume
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alecbravo/)
