@@ -15,7 +15,7 @@ def wrap_text(s, width=55):
     return "\n".join(textwrap.wrap(s, width=width))
 
 
-# ---------------- 1) Run your SQL EXACTLY as provided (updated buckets) ----------------
+#  ----------------------------------------------- 1) SQL Query ----------------------------------------------------
 con = duckdb.connect('games.duckdb')
 
 df = con.execute("""
@@ -344,7 +344,7 @@ plt.show()
 
 # ---------------- Plot C: Hybrid Metrics Sankey Diagram ----------------
 
-# Force Plotly to open in your default web browser (no Kaleido needed)
+# Force Plotly to open in your default web browser
 pio.renderers.default = "browser"
 
 # Filter for last 5 years
@@ -439,5 +439,5 @@ fig_c.update_layout(
     margin=dict(l=10, r=10, t=50, b=10)
 )
 
-# Opens in your default browser (no PNG export, no Kaleido)
+# Opens in your default browser
 fig_c.show()
