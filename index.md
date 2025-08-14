@@ -4,7 +4,10 @@
 
 # Game Market Analysis (EA vs Full Release)
 
-**By Your Name** — SQL • Python • DuckDB • Matplotlib • Plotly • VS Code
+Alec Bravo — SQL • Python • DuckDB • Matplotlib • Plotly • VS Code
+
+## Process Map
+- [Process Map (PDF)](game_data_process.drawio.pdf)
 
 ## Overview
 Goal: Understand how Early Access compares to Full Releases in popularity and pricing trends, and which developers and price buckets drive owners.
@@ -19,13 +22,10 @@ Goal: Understand how Early Access compares to Full Releases in popularity and pr
   ![Plot A](Median Rank by Year & Release Type - Last 5 years.png)
 
 - **Plot B — Price Range Mix (last 10 years):**  
-  ![Plot B](assets/img/plot_b.png)
+  ![Plot B](price range mix EA vs Full Release over 10 years.png)
 
 - **Plot C — Interactive Sankey (Top Dev → Release Type → Price Range):**  
-  👉 [Open interactive Sankey](assets/plot_c.html)
-
-## Process Map
-- [Process Map (PDF)](assets/process_map.pdf)
+  👉 [Open interactive Sankey](Sankey Top 10 Developers last 5 years.png)
 
 ## Methods & Code
 - **SQL:** price bucketing, EA join, rank windows (`ROW_NUMBER`), date parsing.
