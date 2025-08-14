@@ -4,7 +4,7 @@
 
 # Biography 🧙
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alecbravo/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](Alec%20Bravo%20Resume%20Business%20Systems%20Analyst.pdf)
 
 Hello, my name is Alec Bravo and I’ve spent the last 6+ years bridging the gap between business and technology. I’ve designed scalable processes, integrated systems, and built data-driven solutions for global teams using **SQL, Python, ETL pipelines, Redshift, Salesforce, Power BI, and process mapping.**  
@@ -89,5 +89,5 @@ Goal: Understand how Early Access compares to Full Releases in popularity and pr
 - [SQL script](game_data_project_sqlcode.sql) • [Notebook/Script](analyze_game_view_data.py)
 
 ## LinkedIn & Resume
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alecbravo/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](Alec%20Bravo%20Resume%20Business%20Systems%20Analyst.pdf)
