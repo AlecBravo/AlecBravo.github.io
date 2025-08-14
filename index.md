@@ -26,6 +26,12 @@ Beyond my career, my adventures include traveling with my girlfriend, spending t
 
 ---
 
+###  Start Here: How to Explore
+1. Read my **Process Map** to see the analysis flow.
+2. Review **Key Findings** to digest the story.
+3. Scroll through the **Charts** to explore the data.
+4. Dive into **Methods & Code** if you'd like to replicate my work.
+
 # Game Market Insights: Early Access vs Full Release Performance
 
 ## 🛠 Tools & Technologies
@@ -91,3 +97,5 @@ Goal: Understand how Early Access compares to Full Releases in popularity and pr
 ## LinkedIn & Resume
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alecbravo/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](Alec%20Bravo%20Resume%20Business%20Systems%20Analyst.pdf)
+
+## Last Updated August 2025
