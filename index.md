@@ -16,7 +16,7 @@ Goal: Understand how Early Access compares to Full Releases in popularity and pr
 
 ## Charts
 - **Plot A — Median Rank bump charts (last 5 years):**  
-  ![Plot A](assets/img/plot_a.png)
+  ![Plot A](Median Rank by Year & Release Type - Last 5 years.png)
 
 - **Plot B — Price Range Mix (last 10 years):**  
   ![Plot B](assets/img/plot_b.png)
