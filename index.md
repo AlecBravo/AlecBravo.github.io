@@ -2,12 +2,29 @@
 # Title: Game Market Analysis Portfolio
 ---
 
+# 👋 About Me
+
+Hi, I’m **Alec Bravo** — a Business Systems Analyst with 6+ years of experience designing scalable processes, integrating systems, and building data-driven solutions for global teams. My expertise spans **SQL, Python, ETL pipelines, Redshift, Salesforce, Power BI, and process mapping**, with a proven track record of automating workflows, improving data quality, and delivering actionable insights.
+
+I thrive at the intersection of business and technology, translating complex requirements into efficient, maintainable systems. From developing global dashboards tracking $5B+ in opportunities to launching automation tools that save thousands of manual hours annually, I focus on creating solutions that make a measurable impact.
+
+Beyond the professional world, I’m passionate about **traveling with my girlfriend**, spending time with my **Labrador Retriever named Bilbo**, and exploring immersive **RPGs and MMOs** as a gamer. My curiosity and creativity drive both my personal and professional life — whether I’m building analytical tools or leveling up in a virtual world.
+
+<p align="center">
+  <img src="Bilbo Git.JPG" alt="Bilbo the Labrador" width="300" style="margin-right:10px;"/>
+  <img src="fam git.JPG" alt="Alec and Girlfriend" width="300"/>
+</p>
+
+---
+
 # Game Market Analysis (EA vs Full Release)
 
 Alec Bravo — SQL • Python • DuckDB • Matplotlib • Plotly • VS Code
 
+---
+
 ## Process Map
-- [Process Map (PDF)](game_data_process.drawio.pdf)
+![Process Map](game_data_process.drawio.png)
 
 ## Overview
 Goal: Understand how Early Access compares to Full Releases in popularity and pricing trends, and which developers and price buckets drive owners.
