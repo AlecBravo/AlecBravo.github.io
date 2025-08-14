@@ -1,5 +1,5 @@
 ---
-title: Game Market Analysis Portfolio
+# Title: Game Market Analysis Portfolio
 ---
 
 # Game Market Analysis (EA vs Full Release)
