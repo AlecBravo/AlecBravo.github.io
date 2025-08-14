@@ -2,13 +2,13 @@
 # Title: Game Market Analysis Portfolio
 ---
 
-# 👋 About Me
+# 🧙 Biography
 
-Hi, I’m **Alec Bravo** — a Business Systems Analyst with 6+ years of experience designing scalable processes, integrating systems, and building data-driven solutions for global teams. My expertise spans **SQL, Python, ETL pipelines, Redshift, Salesforce, Power BI, and process mapping**, with a proven track record of automating workflows, improving data quality, and delivering actionable insights.
+My name is Alec Bravo, and I’ve spent the last 6+ years bridging the gap between business and technology. I’ve designed scalable processes, integrated systems, and built data-driven solutions for global teams using **SQL, Python, ETL pipelines, Redshift, Salesforce, Power BI, and process mapping.**  
 
-I thrive at the intersection of business and technology, translating complex requirements into efficient, maintainable systems. From developing global dashboards tracking $5B+ in opportunities to launching automation tools that save thousands of manual hours annually, I focus on creating solutions that make a measurable impact.
+From developing global dashboards tracking $5B+ in opportunities to launching automation tools that save thousands of manual hours annually, I have a proven track record of automating workflows, improving data quality, and delivering actionable insights.
 
-Beyond the professional world, I’m passionate about **traveling with my girlfriend**, spending time with my **Labrador Retriever named Bilbo**, and exploring immersive **RPGs and MMOs** as a gamer. My curiosity and creativity drive both my personal and professional life — whether I’m building analytical tools or leveling up in a virtual world.
+Beyond my career, my adventures include traveling with my girlfriend, spending time with my 10 week old Labrador puppy named Bilbo, and exploring immersive RPGs and MMOs. Whether in the real world or virtual realms, I’m on the quest to conquer the next challenge. 
 
 <p align="center">
   <img src="Bilbo Git.JPG" alt="Bilbo the Labrador" width="300" style="margin-right:10px;"/>
@@ -41,8 +41,8 @@ Goal: Understand how Early Access compares to Full Releases in popularity and pr
 - **Plot B — Price Range Mix (last 10 years):**  
   ![Plot B](price range mix EA vs Full Release over 10 years.png)
 
-- **Plot C — Interactive Sankey (Top Dev → Release Type → Price Range):**  
-  👉 [Open interactive Sankey](Sankey Top 10 Developers last 5 years.png)
+- **Plot C — Sankey (Top Dev → Release Type → Price Range):**  
+  ![Plot C](Sankey Top 10 Developers last 5 years.png)
 
 ## Methods & Code
 - **SQL:** price bucketing, EA join, rank windows (`ROW_NUMBER`), date parsing.
